@@ -10,6 +10,10 @@ More Info: https://api.nulldev.org
 
 <br>
 
+**Note:** This API is HTTPS only. While HTTP calls normaly get redirected to HTTPS, it could happen that the API returns `301 Moved Permanently`.
+
+<br>
+
 <hr>
 
 ## POST Data / Calls
