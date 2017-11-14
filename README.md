@@ -4,9 +4,9 @@ This is the documentation of the NullDev Emotion Evaluation API
 
 Type of API: Representational State Transfer (REST)
 
-REST Endpoint: <a href="https://api.nulldev.org/emo">api.nulldev.org/emo</a>
+REST Endpoint: [api.nulldev.org/emo](https://api.nulldev.org/emo)
 
-More Info: https://api.nulldev.org
+More Info: [https://api.nulldev.org](https://api.nulldev.org)
 
 <br>
 
@@ -148,13 +148,13 @@ More Info: https://api.nulldev.org
 
 Good examples:
 
-https://api.nulldev.org/emo?text=I+am+happy!&prettyprint=1
+[https://api.nulldev.org/emo?text=I+am+happy!&prettyprint=1](https://api.nulldev.org/emo?text=I+am+happy!&prettyprint=1)
 
-https://api.nulldev.org/emo?text=I+am+sad&prettyprint=1&split=1
+[https://api.nulldev.org/emo?text=I+am+sad&prettyprint=1&split=1](https://api.nulldev.org/emo?text=I+am+sad&prettyprint=1&split=1)
 
-https://api.nulldev.org/emo?text=I+am+okay
+[https://api.nulldev.org/emo?text=I+am+okay](https://api.nulldev.org/emo?text=I+am+okay)
 
-https://api.nulldev.org/emo?text=I+get+it&split=0
+[https://api.nulldev.org/emo?text=I+get+it&split=0](https://api.nulldev.org/emo?text=I+get+it&split=0)
 
 <hr>
 
