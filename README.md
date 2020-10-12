@@ -1,5 +1,12 @@
 # Emotion-Evaluation-API
 
+# :exclamation: DISCONTINNUED
+
+A newer version of the project can be found here: 
+https://github.com/EMMA-Emotion-AI
+
+---
+
 **Better Version:** <br>
 [nulldevco.github.io/Emotion-Evaluation-API](https://nulldevco.github.io/Emotion-Evaluation-API/)
 
